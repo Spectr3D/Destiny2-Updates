@@ -1,0 +1,15 @@
+Warlock Blink
+
+2.0.0 - Aug 28th, 2018
+Voidwalker
+Significantly reduced the length of time that Blink disables your radar and HUD
+
+2.2.2 - May 7, 2019 
+Voidwalker
+Fixed an issue where Warlocks were unable to Blink after going through a teleportation portal
+
+2.7.1 - Jan 28, 2020
+Fixed an issue that prevented Warlocks from using Blink after switching weapons or cancelling sprint.
+
+3.2.0 - Splicer
+Fixed an issue that was allowing Warlock players to exploit Blink related abilities to remain on the opposing side during invasions in Gambit.

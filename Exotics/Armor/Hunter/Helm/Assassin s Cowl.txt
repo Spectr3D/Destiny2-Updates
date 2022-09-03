@@ -1,0 +1,24 @@
+Assassin's Cowl
+Hunter Exotic Helm
+
+Update 2.6.1 (Oct 29, 2019)
+https://www.bungie.net/en/Explore/Detail/News/48391
+- Lore Tab added
+
+Update 2.8.0 (Mar 10, 2022)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- The invisibility and healing effect now triggers on powered melee (both against combatants and Guardians) and finishers
+- The duration of the invisibility granted by this exotic increases based on the tier of the enemy defeated
+- Arc Staff kills no longer activate this perk
+
+Update 3.2.0 (May 11, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50339
+- Now triggers the effect on Stasis-powered melee kills
+
+Update 3.2.1 (July 6, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50448
+- Assassin's Cowl no longer clips through most Hunter cloaks. 
+
+Update 4.0.0.1 (Feb 22, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51110
+- Updated to now use the new Void Invisibility

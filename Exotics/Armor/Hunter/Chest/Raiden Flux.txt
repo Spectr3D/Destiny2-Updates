@@ -1,0 +1,7 @@
+Raiden Flux Hunter Exotic Chest
+
+Update 2.1.4 (Jan 29, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47595
+- Damage bonus decreased from 20% to 13.5%
+    -This change keeps the bonus damage granted by this Exotic about the same. Because this is calculated on a scaler instead of a flat number, any big changes in base damage have a large effect on the Exotic.  
+    

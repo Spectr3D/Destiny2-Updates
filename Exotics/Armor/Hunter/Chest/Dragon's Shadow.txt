@@ -1,0 +1,6 @@
+Dragon's Shadow Hunter Chest
+
+1.2.1
+Dodge reloads all weapons simultaneously.
+Dodging now also grants +5 mobility for the duration of Wraithmetal Mail, in addition to its previous benefits.
+Added a UI indicator for the Wraithmetal Mail buff.

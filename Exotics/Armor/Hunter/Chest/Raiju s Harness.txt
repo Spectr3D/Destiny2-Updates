@@ -1,0 +1,10 @@
+Raiju's Harness
+Hunter Exotic Chest
+
+Update 2.8.0.2 (Mar 31, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48879
+- Fixed an issue with Raiju’s Harness that allowed players to hold Whirlwind Guard indefinitely.
+
+Update 4.0.1 (Apr 29, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51249
+- Fixed an issue where players could continue to block a few seconds after the Arcstrider Super deactivated while wearing Raiju's Harness. 

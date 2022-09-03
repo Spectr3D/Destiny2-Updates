@@ -1,0 +1,58 @@
+**ARC 3.0/New Season - <t:1661274000:F>**
+
+***Buffs/Debuffs***
+	*Buffs* - 
+		Amplified: Increased movement speed and handling of weapons. While sprinting and being amplified, you will gain ANOTHER speed boost (Speed Booster - In Development) that also gives PvE resist and a longer slide distance.(By default, all arc subclasses will give this buff by rapidly killing enemies with Arc Damage)
+		Ionic Traces: Not exactly a buff but are now going to be available to all Arc Subclasses. They will provide energy for all abilities.
+
+	*Debuffs* - 
+		Blind:
+			PvE - Enemies can't fire weapons/disoriented.
+			PvP - White flash on screen and short removal of HUD. Will also distort and give washed-out audio for a brief time.
+		Jolt: Jolted opponents who are damaged will periodically send slivers of chain lightning out to nearby enemies, damaging them in the process.
+
+
+***Hunter:***
+	**· Aspects:**
+		- Flow State: Defeating a jolted opponent causes you to become amplified. When amplified, the Hunter’s dodge will recharge faster and make you more resistant to damage, and you have quicker reload times.
+		- Tempest Strike: Allows the Hunter to perform a sliding melee that launches an Arc wave along the ground, dealing significant damage and jolting enemies in its path.
+		- Lethal Current: After dodging, the Hunter’s melee lunge range is increased and their next melee attack jolts the target and creates a damaging lightning aftershock. When used with the Arc Staff Super, after dodging, the Hunter’s next staff light attack hits twice. In addition, hitting a jolted enemy with a melee attack will blind them. 
+	**· Melees:**
+		- Combination Blow: Same as before
+		- Disorienting Blow: Same as before
+	**· Supers:**
+		- Arc Staff: Reflect/Block is now a default function.
+		- (NEW) Gathering Storm: New super that launches the arc staff into the ground or an enemy. Upon impact, the staff emits a damaging burst that jolts nearby enemies. Soon after, a giant bolt of lightning strikes the staff and overcharges it, creating a large damage zone around it for several seconds—while overcharged, the staff sends out arcs of lightning to damage any enemies that move near it.
+	**· Movement:**
+		- (NEW) Blink: Added to Hunter Arc Subclass and will go (most likely a little bit) farther and have a different cooldown method from the looks of it. This also applies to Warlock Void Blink
+
+***Warlock:***
+	**· Aspects:**
+		- Arc Soul: The Warlock casts a rift to create an Arc Soul that will assist the player in battle. Allies who pass through the rift will also earn an Arc Soul. The rift charges faster when allies are near. While amplified, any Arc Soul you have or gain is supercharged, increasing its rate of fire.
+		- Lightning Surge: The Warlock activates their melee while sliding to transform into a ball of lightning and teleport forward, calling down a field of lightning bolts at the exit point that jolts targets. 
+		- Electrostatic Mind: Arc ability kills and kills on Arc-debuffed enemies create Ionic Traces. When you collect any Ionic Trace, you become amplified.
+	**· Melees:**
+		- Ball Lightning: Current/Old middle tree melee.
+		- Chain Lightning: Will send out arcs of lightning to strike and apply Jolt to the primary target and those near the target.
+	**· Supers:**
+		- Stormtrance: Landfall and Ioinic Blink are now default.
+		- Chaos Reach: Appears to be the same as before
+	
+***Titan:***
+	**· Aspects:**
+		- Touch of Thunder: Improves Arc grenades in the following ways:
+			Flashbang: Fires an additional blind impulse on its first bounce.
+			Pulse: When the grenade damages an enemy, it creates an Ionic Trace for the Titan. Pulse Grenade damage increases over time as the grenade lingers after impact.
+			Lightning: Grants an additional charge for Lightning grenade, and jolts targets on initial blast.
+			Storm: Creates a roaming thundercloud that moves and tracks enemies (similar to the Stasis Hunter’s Silence & Squall Super), firing lightning bolts at the ground underneath it.
+		- Juggernaut: While sprinting and with full class ability energy, the Titan gains a frontal shield that blocks incoming damage. When amplified, the shield is stronger. Once the shield is depleted by taking damage, the player’s class energy is depleted. 
+		- Knockout: Melee kills trigger health regeneration and make the Titan amplified. Critically wounding an enemy or breaking their shield increases melee range and damage for a brief period. Titan’s base melee becomes Arc-empowered while Knockout is active.
+	**· Melees:**
+		- Ballistic Slam: Same as before
+		- Seismic Strike: Arc Shoulder charge that will have an increased blinding area of effect if you are amplified when the attack hits.
+		- (NEW) Thunderclap: holds the melee button and charges up Arc energy that can be unleashed in either a quick powerful jab or held and built up, to be unleashed in a furious One Punch Man-style blast that will devastate an opponent. The charged state cannot be stored and the Titan must be on the ground to charge the punch. The damage is significant: a 90-percent-charged Thunderclap will one-shot Guardians in PvP.
+	**· Supers:**
+		- Fist of Havoc: Slam radius is now middle sized (In between the radius of top and bottom tree) and leaves the AOE effect by default.
+		- Thundercrash: Same as before
+	**· Class Ability:**
+		- (NEW) Thruster: Titan bursts in their throttle direction at speed, performing a quick first-person evade, comparable in distance to a Hunter’s dodge.

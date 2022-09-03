@@ -1,0 +1,15 @@
+Liar's Handshake
+Hunter Exotic Arms
+
+Update 2.6.0.1 (Oct 1, 2019)
+https://www.bungie.net/en/Explore/Detail/News/48198
+- Fixed an issue where the Liar's Handshake perk Cross Counter was intermittently failing to activate and trigger healing
+- Reduced the effectiveness of stacking One-Two Punch and Cross Counter (Liar's Handshake)
+
+Update 2.8.0 (Mar 10, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- Hunter exotic "Liar's Handshake" Cross Counter melee damage buff will now expire as intended after picking up a carry object 
+
+Update 3.1.0.1 (Feb 23, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50120
+- Fixed an issue where the Thalia's Reach ornament for Liar's Handshake disappeared when unequipping it. 

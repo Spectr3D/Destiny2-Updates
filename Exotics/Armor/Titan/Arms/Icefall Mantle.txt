@@ -1,0 +1,14 @@
+Update 3.0.1 - Dec 8th, 2020
+- Fixed a bug where Icefall Mantle's description did not mention the slow field it generates when activated.
+
+Update 3.1.0 - Feb 9th, 2021
+- The Overshield buff timer granted from IceFall Mantle Exotic will no longer be refreshed when a Titan is shot by Allied players in PvE. 
+
+Update 3.3.0 - Aug 24th, 2021
+- Removed the slower class ability recharge scalar.
+
+Update 3.4.0 (30th Anniversary)
+- Stasis overshield can now be cancelled by pressing the class-ability input again. 
+
+Update 3.4.0.2
+- Fixed an issue where Icefall Mantle could be activated immediately after Glacial Guard fell off the Titan. 

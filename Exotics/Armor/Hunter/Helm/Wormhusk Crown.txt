@@ -1,0 +1,11 @@
+Wormhusk Crown
+Hunter Exotic Helm
+
+Update 2.0 (Aug 28, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- No longer starts regeneration of health and shields
+- Instead grants a larger health and shield bump at the beginning of dodge instead of at the end
+
+Update 3.1.0 (Feb 9, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50097
+- Fixed an isse where Wormhusk Crown would trigger its perk when breaking out of Stasis

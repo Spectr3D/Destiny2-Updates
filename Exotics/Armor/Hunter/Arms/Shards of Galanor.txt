@@ -1,0 +1,24 @@
+Shards of Galanor
+Hunter Exotic Arms
+
+Update 2.0.2 (Sep 11, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47213
+- Fixed an issue where Shards of Galanor were not giving energy back when knives hit from a long distance
+
+Update 2.1.4 (Jan 29, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47595
+- Tuned energy values on Shards of Galanor to accompany changes to the Blade Barrage Super
+    - Reduced maximum energy return from 90% to 75% of the total Super
+    - Now only returns energy on the knife impacts
+
+Update 2.5.0.1 (Jun 4, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47880
+- Super gain caps reduced to be in parity with other Super Exotic changes.
+
+Update 3.3.0 (Aug 24, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50599
+- Increased the amount of Super granted for hits, but total Super regain is now capped at 50%. 
+
+Update 3.3.0.1 (Sep 2, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50668
+- Fixed an issue causing the new Shards of Galanor Exotic armor ornament to improperly display colors. 

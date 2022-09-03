@@ -1,0 +1,13 @@
+Celestial Nighthawk
+Hunter Exotic Helm
+
+Update 2.0 (Aug 28, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Now grants 33% of your Super energy back if the target is killed by the shot.
+
+Update 2.1.4 (Jan 29, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47595
+Golden Gun Super:
+- Increased damage to bosses by 40% 
+    - Includes Six-Shooter and Celestial Nighthawk
+- Fixed an issue where players could equip Celestial Nighthawk mid-Super to partially benefit from "Hawkeye Hack" perk when using the Six-Shooter subclass

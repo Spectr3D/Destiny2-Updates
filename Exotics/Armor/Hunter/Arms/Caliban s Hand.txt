@@ -1,0 +1,13 @@
+Caliban's Hand
+Hunter Exotic Arms
+
+Update 4.1.0.2 (June 7, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51440
+- Updated the description of the Roast ‘Em perk on the Hunter Exotic arms Caliban’s Hand: "Proximity Knife scorches targets it damages with its explosions, or ignites targets on a direct kill." 
+
+Update 4.1.5 (July 19, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51593
+- Fixed an issue where Caliban's Hand behavior was different between PvE and PvP. 
+    - Ignition will now proc when defeating enemies by both direct hits and explosions for both PvE and PvP. 
+    - This fix introduced a new issue we are investigating where Caliban's Hand will only apply scorch to a single target. 
+- Fixed an issue where Caliban's Hand wasn't working as intended with Radiant and the Knock 'em Down aspect. 

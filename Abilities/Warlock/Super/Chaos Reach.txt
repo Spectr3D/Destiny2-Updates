@@ -1,0 +1,44 @@
+- Black Armory Update 2.1.1.1 
+Dec 4th, 2018
+Chaos Reach super energy retaining change
+
+- Update 2.1.4
+Jan 29th, 2019
+Fixed an issue where players could retain Super energy for Chaos Reach even when being suppressed mid-Super
+
+- Update 2.2.2
+Fixed an issue where Chaos Reach would not deal damage to enemies affected by other status effects (such as Thorn's Soul Devourer or Hunter Tethers)
+
+- Season of Opulence Update 2.5.0.1
+June 4th, 2019
+Fixed an issue where using Chaos Reach with Geomag Stabilizers could sometimes lead to weapons disappearing.
+
+- Shadowkeep Update 2.6.0.1 
+Oct 1st, 2019
+Fixed an issue where the increased sustain damage perk of the Stormtrance super would break if a player swapped their sub-class to Chaos Reach and then back to Stormtrance within an activity
+
+- Update 2.6.1
+Oct 29th, 2019
+Made it so subclass icons in PvP matched the tree you were on (Chaos Reach, Blade Barrage, Well and such)
+
+- Season of the Worthy Update 2.8.0
+Mar 10th, 2020
+Chaos Reach
+Increased beam endpoint radius from 2m to 2.4m
+Reduced intensity of VFX to improve visibility
+
+- Update 3.1.1.1
+Mar 23rd, 2021
+Chaos Reach
+Decreased the amount of Super energy refunded when cancelling Chaos Reach early. 
+
+- Season of the Splicer Update 3.2.0
+May 11th, 2021
+Chaos Reach 
+Fixed an issue with Chaos Reach Super that was allowing it to penetrate some thin walls or objects enough to damage and kill opponents on the other side.
+
+- 30th Anniversary Update 3.4.0
+Dec 7th, 2021
+Chaos Reach 
+Reduced damage per tick vs. players from 33%. 
+Increased damage tick rate vs. players by 33%.

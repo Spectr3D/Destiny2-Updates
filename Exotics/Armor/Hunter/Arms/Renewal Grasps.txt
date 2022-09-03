@@ -1,0 +1,14 @@
+Renewal Grasps
+Hunter Exotic Arms
+
+Update 4.0.0.2 (Mar 3, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51134
+- Fixed an issue where the reduced damage debuff from the Renewal Grasps Exotic was only briefly applied. 
+    - Should now affect enemies for duration they remain in Duskfield Grenade's AoE. 
+    - Updated Renewal Grasp’s description and Icon. 
+
+Update 4.0.1.1 (Apr 26, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51270
+- While equipped, Renewal Grasps now increases the base cooldown of the Duskfield Grenade from 62s to 152s.  
+- The outgoing damage penalty applied to players affected by a  Renewal Grasps’ Duskfield Grenade has been reduced from 50% to 20%.  
+    - Damage unchanged vs. PvE targets. 

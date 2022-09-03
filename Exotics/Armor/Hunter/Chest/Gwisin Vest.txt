@@ -1,0 +1,25 @@
+Gwisin Vest
+Hunter Exotic Chest
+
+Update 2.1.1.1 (Dec 4, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47489
+- Fixed an issue where kills were not required to extend Super uptime
+- Fixed an issue where Super was not extended after 10 or more kills
+
+Update 2.1.4 (Jan 29, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47595
+-Reduced energy return on Gwisin Vest from 10% to 7% of the total Super
+
+Update 2.5.0.1 (June 4, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47880
+- Adjusted amount of Spectral Blade Super restoration when defeating enemies with Gwisin Vest.
+    1 PvP kill = 11.1% → 8.3%
+    2 PvP kills = 19.1% → 12.5%
+    3 PvP kills = 20.8% → 14.2%
+    4 PvP kills = 21% → 15.8%
+    5 PvP kills = 21% → 16.7%
+    1 Dreg kill = 7% → 11.1%
+    2 Dreg kills = 17.7% → 14.3%
+    3 Dreg kills = 20% → 16.5%
+    4 Dreg kills = 20.9% → 16.9%
+    5 Dreg kills = 21% → 17.1%

@@ -1,0 +1,34 @@
+Throwing Hammer Titan Melee
+
+Update 2.0.4 (Festival of the Lost 2018)
+https://www.bungie.net/en/Explore/Detail/News/47335
+- Now Throwing Hammers can be picked only if your own Throwing Hammer ability is not fully charged
+
+Update 2.7.0 (Season of the Dawn)
+https://www.bungie.net/en/Explore/Detail/News/48556
+- Increased impact damage from 100 to 120
+- Increased hammer pickup radius from 2 meters to 3.5 meters
+
+Update 2.7.1 (Season of Dawn Hotfix)
+https://www.bungie.net/en/Explore/Detail/News/48657
+- Fixed an issue in which Sunbreaker Titans were able to self-heal by bouncing a Throwing Hammer off a wall.
+
+Update 3.3.0 (Season of the Lost)
+https://www.bungie.net/en/Explore/Detail/News/50599
+- Increased time before hammer explodes after hitting the ground from 6.5s to 10s. 
+- Can now be shot and destroyed in flight and when lying on the ground. 
+- Hammer cannot be picked up for 0.5s after throwing it. 
+- Increased damage vs. powerful PvE combatants by ~50%. 
+
+Update 3.4.0 (30th Anniversary)
+https://www.bungie.net/en/Explore/Detail/News/50880
+- Increased cooldown from 82s to 90s. 
+- Increased knockback vs. some heavier combatants. 
+
+Update 4.0.0.1 (Witch Queen Launch)
+https://www.bungie.net/en/Explore/Detail/News/51110
+- Fixed an issue causing this projectile melee to behave as a physical melee. 
+
+Update 4.1.0 (Solar 3.0/Season of the Haunted)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- Now applies Cure (in addition to refunding the melee cost) when picked up if the Hammer struck a target.

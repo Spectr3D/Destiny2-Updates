@@ -1,0 +1,11 @@
+Mask of Bakris
+HUnter Exotic Helm
+
+Update 3.0.1 (Dec 8, 2020)
+https://www.bungie.net/en/Explore/Detail/News/49928
+- Improved the readability of the visual effects when another player wearing Mask of Bakris shifts directly toward you.
+- Updated the description string of Mask of Bakris's perk to correctly describe its damage bonus, which applies only to combatants and affects all arc weapon damage and all damage against slowed or encased enemies. 
+
+Update 4.1.0 (May 24, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- Fixed an exploit that allowed players to break out of playable spaces with glaive and Mask of Bakris equipped. 

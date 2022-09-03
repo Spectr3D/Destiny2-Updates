@@ -1,0 +1,37 @@
+Hammer Strike Titan Melee
+
+Update 1.1.4 (Going Fast)
+https://www.bungie.net/en/Explore/Detail/News/46708
+- Increased the distance the player travels with an untargeted airborne shoulder charge attack (Shield Bash, Seismic Strike, and Hammer Strike) back to 4.5m
+
+Update 2.0 (Pre-Forsaken)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Increased the base damage of Seismic Strike, Hammer Strike, and Shield Bash
+
+Update 2.6.0.1 (Shadowkeep)
+https://www.bungie.net/en/Explore/Detail/News/48198
+- Incoming PvE damage is now +30% (Previously +50%)
+- Duration increased from 6 to 10 seconds in PvE
+
+Update 2.8.0 (Season of the Worthy)
+https://www.bungie.net/en/Explore/Detail/News/48198
+Shoulder Charge Abilities: Seismic Strike, Hammer Strike, Shield Bash 
+- Lunge auto-targeting angle decreased by 50%
+- Targeted lunge movement distance decreased from 6m to 5.5m
+- Untargeted lunge movement distance increased from 4.5m to 5.5m
+- Bonus damage vs. low-tier PvE combatants reduced by 20%
+
+Update 3.4.0 (30th Anniversary)
+https://www.bungie.net/en/Explore/Detail/News/50880
+Shoulder Charge Abilities: Seismic Strike, Hammer Strike, Shield Bash 
+- Sprint activation time reduced from 1.5s to 1.25s. 
+- Increased targeting range from 5.5m to 6.8m. 
+- Lunge range increased from 5.5m to 6.8m. 
+- Targeting-cone width increased by ~10%. 
+- Now suppresses victim's melee lunge for 1s on hit. 
+- Increased damage vs. PVE combatants by 25%. 
+- Reduced damage vs. players (no longer guaranteed one-shot kill). 
+
+Update 4.1.0 (Season of the Haunted - Solar 3.0)
+- No longer weakens targets. 
+- Now applies 40 Scorch stacks to the primary target hit by Hammer Strike and deals damage to targets behind them. If the primary target is killed by a Hammer Strike direct impact, they automatically Ignite. 

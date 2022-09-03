@@ -1,0 +1,14 @@
+Khepri's Sting
+Hunter Exotic Arms
+
+Update 2.6.0.1 (Oct 1, 2019)
+https://www.bungie.net/en/Explore/Detail/News/48198
+- Khepri's Sting will no longer consume the owner's melee ability energy charge when hit by a friendly Hunter's smoke bomb.
+
+Update 2.8.0 (Mar 10, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- All of your smoke bombs deal 150% damage while wearing this exotic
+
+Update 3.2.0 (May 11, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50339
+- Khepri's Sting will no longer grant Truesight when affected by another Guardian's smoke bomb invisibility. 

@@ -1,0 +1,17 @@
+Young Ahamkara's Spine
+Hunter Exotic Arms
+
+Update 1.2.3 (July 17th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47034
+- Now also improves Tripmine Grenade’s blast radius and throw speed, and makes your Tripmine Grenades harder to destroy.
+- Solar ability hits now grant some Tripmine Grenade energy (33%).
+- Added new FX treatment to the improved Tripmine Grenades to differentiate them from normal Tripmine Grenades.
+- Removed target-marking functionality.
+
+Update 2.8.0 (Mar 10, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- Increases the explosion radius for tripmines by 14%.
+
+Update 4.1.0 (May 24, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- No longer grants ability energy from burn damage ticks. 

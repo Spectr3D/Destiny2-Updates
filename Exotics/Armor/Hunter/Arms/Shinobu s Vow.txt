@@ -1,0 +1,18 @@
+Shinobu's Vow
+Hunter Exotic Arms
+
+Update 2.0 (Aug 28th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Skip grenade returns some energy when it damages an enemy
+
+Update 2.8.1 (Apr 21, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48959
+- The Mantle of Remembrance ornament for Hunters’ Exotic gauntlets Shinobu's Vow will now properly replace the item icon to reflect the change in appearance.
+
+Update 3.1.0.1 (Feb 23, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50120
+- Fixed an issue where Mantle of Remembrance ornament indicated it was for Aeon Swift instead of Shinobu's Vow. 
+
+Update 3.4.0 (Dec 7, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50880
+- In PvP game modes, reduced grenade-energy gain per hit by 66%. 

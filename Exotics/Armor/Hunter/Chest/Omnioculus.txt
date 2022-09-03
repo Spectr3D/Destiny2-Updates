@@ -1,0 +1,14 @@
+Omnioculus
+Hunter Exotic Chest
+
+Update 3.1.1 (Mar 16, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50186
+- Fixed Omnioculus not displaying flavor text. 
+
+4.1.5 (July19, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51593
+- Fixed an issue where the Omnioculus Hunter Exotic was clipping through the Frumious Cloak. 
+
+6.2.0.2 (Sep 1,2022)
+https://www.bungie.net/en/Explore/Detail/News/51745
+- Damage resistance reduced to 10% in PvP

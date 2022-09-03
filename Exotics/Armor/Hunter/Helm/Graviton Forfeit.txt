@@ -1,0 +1,16 @@
+Graviton Forfeit
+Hunter Exotic Helm
+
+Update 3.3.0 (Aug 24, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50599
+- Increased the bonus invisibility duration.  
+- The melee regeneration speed now increases based on the number of enemies near you.  
+- While you are invisible, your Recovery is greatly increased and your weapons reload more quickly.
+
+Update 4.0.0.3 (Mar 10, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51157
+- Reduced melee recharge while invisible and wearing Graviton Forfeit when in PvP activities, including Crucible and Gambit. 
+
+Update 4.0.0.4 (Mar 22, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51188
+- Fixed an issue where the previous reduction of melee recharge rate for Graviton Forfeit was erroneously applying in PvE activities. 
