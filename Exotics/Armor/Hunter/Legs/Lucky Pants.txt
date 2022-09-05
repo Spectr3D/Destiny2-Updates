@@ -1,0 +1,31 @@
+Lucky Pants
+Hunter Exotic Legs
+
+Update 1.1.0 (Dec 5, 2017)
+https://www.bungie.net/en/Explore/Detail/News/46522
+- Added an additional perk to Lucky Pants that loads a single bullet to the chamber of a stowed Hand Cannon whenever the player scores a precision hit with any weapon
+
+Update 1.1.2 (Jan 30, 2018)
+https://www.bungie.net/en/Explore/Detail/News/46585
+- Fixed an issue where the Illegally Modded Holster perk could provide infinite ammo
+
+Update 2.0 (Aug 28, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Extended duration of Illegally Modded Holster
+
+Update 2.0.4 (Oct 16, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47335
+- Lucky Pants will no longer reload Hand Cannons that are not stowed
+
+Update 3.3.0 (Aug 24, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50599
+- Added intrinsic Hand Cannon Holster mod, replaced previous functionality with the following:  
+- "When you ready a fully-loaded Hand Cannon that deals Kinetic damage or damage matching your subclass energy type, for a short time each hit against a combatant from that Hand Cannon increases the damage of the next shot.” 
+
+Update 3.3.0.1 (Sep 2, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50668
+- Fixed an issue preventing players from changing the armor energy type of Lucky Pants. 
+
+Update 4.1.0 (May 24, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- +20 AE to handcannons during Illegally Modified Holster perk
