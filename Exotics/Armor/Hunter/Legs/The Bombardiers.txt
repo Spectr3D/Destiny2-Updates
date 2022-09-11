@@ -1,0 +1,14 @@
+The Bombardiers
+Hunter Exotic Legs
+
+Update 3.3.0 (24, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50599
+- The bomb now has a secondary effect based on your subclass type:  
+	- Blind for Arc.  
+	- Burn for Solar.  
+	- Slow for Stasis.  
+	- Suppress for Void.  
+	
+Update 4.1.0 (May 24, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- Now apply Scorch to targets rather than a generic Solar burn effect. 

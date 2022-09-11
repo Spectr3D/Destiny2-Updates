@@ -1,0 +1,6 @@
+Gemini Jester
+Hunter Exotic Legs
+
+Update 2.5.0.1 (June 4, 2021)
+https://www.bungie.net/en/Explore/Detail/News/47880
+- Increased duration of disorient and no-radar effects by 0.5 seconds.

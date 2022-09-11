@@ -1,0 +1,17 @@
+Star-Eater Scales
+Hunter Exotic Legs
+
+Update 3.2.0.2 (May 25, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50381
+- Fixed an issue where Star-Eater Scales was erroneously applying its damage bonus to weapons and grenades instead of only Supers as intended.  
+	- Increased the maximum number of stacks required for the full damage bonus from four stacks to eight stacks.
+	
+Update 3.2.0.3 (June 3, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50396
+- Now correctly grants its damage bonus while the player is standing in a Well of Radiance. 
+- The status icon for Feast of Light now correctly scales up to x8, gaining one stack per Orb picked up. 
+- Fixed an issue when calculating Super bonus damage. Having 4 stacks of Feast of Light will grant a 55% bonus to Super damage, and having a full 8 stacks will grant a 70% bonus to Super damage. For context, the original formula at the start of the Season was a 60% bonus to damage at 4 stacks. 
+
+Update 6.2.0 (Aug 23, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51707
+- (NOT RECORDED IN THE UPDATED) Reverted back to onlly requiring 4 stacks for maximum effect. Unsure if it was intentional but am recording it here because it is known to have changed and not ber fixed in any of the hotfixes

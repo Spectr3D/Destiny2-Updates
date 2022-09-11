@@ -1,0 +1,14 @@
+FR0ST-EE5
+Hunter Exotic Legs
+
+Update 2.4.1 (Oct 18, 2016)
+https://www.bungie.net/en/Explore/Detail/News/45338
+- Adjusted the Rapid Cooldown perk on the Fr0st-EE5 Hunter Exotic Legs to no longer interfere with the base cooldown provided by stats
+
+Update 2.8.0 (Mar 10, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- Changed the ability regeneration so that it no longer stacks multiplicatively with other class ability energy generating perks. 
+
+Update 3.4.0 (Dec 7, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50880
+- In PvP game modes, ability-energy gain is no longer generative with other energy-regeneration boosts. 

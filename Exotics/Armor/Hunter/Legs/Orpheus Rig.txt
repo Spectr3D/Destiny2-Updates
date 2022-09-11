@@ -1,0 +1,24 @@
+Orpheus Rig
+Hunter Exotic Legs
+
+Update 2.0 (Aug 28, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- No longer grants Super energy on bloom and damage sharing
+- Raised base Super amount that you receive from tethers to create a more consistent and less exponential experience
+- Super energy given is scaled up when more powerful enemies are tethered
+- When used with Moebius Quiver, grants additional tether shots
+	- Does not grant ability energy on tethering targets
+
+Update 2.0.2 (Sep 11, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47213
+- Fixed an issue where players were able to create 10 Deadfall Void Anchors using Orpheus Rigs and Moebius Quiver 
+	
+Update 2.8.0 (Mar 10, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- The maximum amount of Super you can regain from this exotic with a single use of Shadowshot is 50%.
+
+Update 4.0.0.1 (Feb 22, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51110
+- Shadowshot: Moebius Quiver 
+	- Each shot now fires a volley of three Void Arrows in a fan that seek to nearby enemies, Suppressing and Weakening them, and making them Volatile.
+		- Two shots per Super; three with Orpheus Rig equipped. 

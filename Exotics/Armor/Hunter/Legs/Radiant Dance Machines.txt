@@ -1,0 +1,6 @@
+Radiant Dance Machines
+Hunter Exotic Legs
+
+Update 3.3.0.1 (Sep 2, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50668
+- Fixed an issue causing Radiant Dance Machines to trigger armor mods and Stasis Fragments more often than intended.
