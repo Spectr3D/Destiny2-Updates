@@ -1,0 +1,10 @@
+Phoenix Cradle
+Titan Exotic Legs
+
+Update 2.8.1 (Apr 21, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48959
+- The Titan's Phoenix Cradle Exotic leg armor now correctly creates sunspots that have an extended duration and apply their benefits to allies when the Titan wearing the armor gets a weapon kill while standing in a sunspot.
+
+Update 4.1.0 (May 24th, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- Now applies the Sol Invictus buff and Solar Restoration to allies that pass through your Sunspots. 

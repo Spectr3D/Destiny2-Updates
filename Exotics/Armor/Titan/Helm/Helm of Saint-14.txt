@@ -1,0 +1,18 @@
+Helm of Saint-14
+Titan Exotic Helm
+
+Update 1.1.3 (Feb 27th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/46666
+- Helm of Saint-14 no longer affects allies when guarding with the Sentinel Shield Super
+
+Update 2.0 (Aug 28th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Grants allies an overshield for a short duration when passing through Ward of Dawn
+
+Update 4.0.0.1 (Feb 22nd, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51110
+- Updated to use the new Void Overshield buff. 
+
+Update 4.1.0 (Mar 24th, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- Helm of Saint-14' Starless Night now applies to this bubble as it does for Ward of Dawn. 

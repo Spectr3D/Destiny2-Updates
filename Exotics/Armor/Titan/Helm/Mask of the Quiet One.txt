@@ -1,0 +1,12 @@
+Mask of the Quiet One
+Titan Exotic Helm
+
+Update 1.1.0 (Dec 5th, 2017)
+https://www.bungie.net/en/Explore/Detail/News/46522
+- Mask of the Quiet One no longer grants energy when the wearer takes damage from friendly players
+- Shield Bash now triggers the Dreaded Visage perk on Mask of the Quiet One
+
+Update 2.0 (Aug 28th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Increased energy gain from incoming damage
+- While critically wounded, health is granted from kills

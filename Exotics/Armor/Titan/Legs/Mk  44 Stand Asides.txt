@@ -1,0 +1,10 @@
+Mk. 44 Stand Asides
+Titan Exotic Legs
+
+Update 2.0 (Aug 28th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47127
+- Overshield granted by sprinting appears faster
+
+Update 2.8.0 (Mar 10th, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- Reduced the delay from the start of sprinting until the overshield comes in to 0.5 seconds, down from 1.25 seconds.

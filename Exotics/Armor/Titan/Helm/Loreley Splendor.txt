@@ -1,0 +1,18 @@
+Loreley Splendor
+Titan Exotic Helm
+
+Update 4.0.0.2 (Mar 3rd, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51134
+- It will still grant a Sunspot when critically wounded, but now requires and will consume a charged class ability cool down.
+
+Update 4.0.0.4 (Mar 22nd, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51188
+- Fixed an issue where the Exotic Titan Helmet, Loreley Splendor, would consume class ability energy upon death without spawning a Sunspot(as in the case of taking enough damage to fully deplete your health while you still have any shields). 
+
+Update 4.1.0 (May 24th, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51380
+- The Sunspot created by Loreley Splendor Helm now when casting your Barricade or while at critical health has improved Restoration effects. (x2 Restoration)
+
+Update 6.2.0.3 (Sep 13th, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51773
+- Loreley Splendor Helm Titan Exotic has been adjusted to grant x1 Restoration. 

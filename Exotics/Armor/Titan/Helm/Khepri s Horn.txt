@@ -1,0 +1,9 @@
+Khepri's Horn
+Titan Exotic Helm
+
+Update 2.2.0 (Mar 5th, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47677
+- Increased class energy gain from Solar damage kills from 10% to 15% and reduced the cooldown from 2 to 1 second
+- Solar blast groundfollow now returns a second groundfollow back toward the player
+- Damage from groundfollow increased from 80 to 100
+- Damage from groundfollow is doubled in PvE

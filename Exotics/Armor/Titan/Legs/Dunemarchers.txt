@@ -1,0 +1,24 @@
+Dunemarchers
+Exotic Titan Legs
+
+Update 1.1.0 (Dec 5th, 2017)
+https://www.bungie.net/en/Explore/Detail/News/46522
+- Fixed an issue with Dunemarchers where the Linear Actuators perk was not triggering consistently
+
+Update 1.2.3 (July 17th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47034
+- Reduced the time to activate Linear Actuators while you’re sprinting to 1.5 seconds (down from 5 seconds).
+- Increased the damage of the chain lightning effect (+70% in PvP, 440% in PvE).
+
+Update 2.8.0 (Mar 10th, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- Increase the radius of static charge to 20 meters, up from 12 meters.
+
+Update 3.1.1 (Mar 16th, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50186
+- Fixed an issue with the Linear Actuators perk for Dunemarchers was not triggering properly. 
+
+Update 3.4.0 (Dec 7th, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50880
+- Once a player is hit by a Dunemarchers lightning chain, they cannot be hit again by Dunemarchers for 2s. 
+- Dunemarchers lightning now only chains on targets that are alive. 

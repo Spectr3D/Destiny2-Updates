@@ -1,0 +1,11 @@
+Peregrine Greaves
+Titan Exotic Legs
+
+Update 2.7.0 (Dec 10th, 2019)
+https://www.bungie.net/en/Explore/Detail/News/48556
+- No longer disproportionately increases the damage of Hammer Strike
+- Damage is equalized to ~300% the damage of a normal shoulder charge against a single target
+
+Update 4.1.0.4 (June 28th, 2022)
+https://www.bungie.net/en/Explore/Detail/News/51491
+- +20 AE to all weapons

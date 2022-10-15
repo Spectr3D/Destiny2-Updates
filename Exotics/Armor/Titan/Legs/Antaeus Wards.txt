@@ -1,0 +1,10 @@
+Antaeus Wards
+Titan Exotic Legs
+
+Update 2.0.2 (Sep 11th, 2018)
+https://www.bungie.net/en/Explore/Detail/News/47213
+Fixed an issue where Antaeus Wards were sometimes generating orbs when used by Sentinels
+
+Update 2.9.0.1 (June 18th, 2020)
+https://www.bungie.net/en/Explore/Detail/News/49280
+- Remove Super energy bonus and increase Sprint time required to activate.

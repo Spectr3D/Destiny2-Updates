@@ -1,0 +1,6 @@
+Precious Scars
+Titan Exotic Helm
+
+Update 3.3.0 (Aug 24th, 2021)
+https://www.bungie.net/en/Explore/Detail/News/50599
+- Will now also create a burst of healing and bonus Recovery around you whenever you kill an enemy with a weapon whose damage type matches your subclass type.  

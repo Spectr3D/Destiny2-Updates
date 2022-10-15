@@ -1,0 +1,18 @@
+One-Eyed Mask
+Titan Exotic Helm
+
+Update 2.2.0 (Mar 5th, 2019)
+https://www.bungie.net/en/Explore/Detail/News/47677
+- Mark duration reduced from 15 seconds to 8 seconds
+- Health no longer restores automatically, but restores alongside overshield
+- Can no longer be triggered while in Super
+
+Update 2.7.0 (Dec 10th, 2019)
+https://www.bungie.net/en/Explore/Detail/News/48556
+- No longer grants an overshield on killing your marked target
+
+Update 2.8.0 (Mar 10th, 2020)
+https://www.bungie.net/en/Explore/Detail/News/48838
+- The target marking from this exotic has been replaced with target highlighting, eliminating the ability to detect targets through walls
+- No longer provides a damage bonus when defeating your marked target
+- Restored the previous overshield granted by defeating your marked target, which now has a duration of 6 seconds (down from 8)
